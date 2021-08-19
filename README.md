@@ -13,6 +13,7 @@ https://www.linkedin.com/in/mohamad-al-sabaa-37a39b213/
 Skills: 
 
 HTML
+<br/>
 CSS
 JavaScript
 React JS
